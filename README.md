@@ -9,6 +9,8 @@
 - 👯 I’m looking to collaborate on research involving Numerical Analysis, Mathematical Modeling in Science and Engineering, and Computational Dynamical Systems
 - Happy to do Mathematical Biology & work on anything meaningful which could help people
 
+- Programming Languages I know: Python, Matlab, Java, Maple 
+
 - 📫 How to reach me: kwoczakpatryk@gmail.com
 
 - 😄 Pronouns: He/Him
