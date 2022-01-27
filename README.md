@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello :) 👋
 
-<!--
-**KwoczakPatryk/KwoczakPatryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on numerically finding coexistence regions for periodic attractors of the Henon Map.
+
+- 🌱 I’m currently learning Computational Neuroscience from Coursera offered by the University of Washington
+
+- 👯 I’m looking to collaborate on research involving Numerical Analysis, Mathematical Modeling in Science and Engineering, and Computational Dynamical Systems
+- Happy to do Mathematical Biology & work on anything meaningful which could help people
+
+- 📫 How to reach me: kwoczakpatryk@gmail.com
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: I have a passion for gardening and reading
+
+- Non-academic interests include History of Math, Philosophy, and my cat, Midnight. 
