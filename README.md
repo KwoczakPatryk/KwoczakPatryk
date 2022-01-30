@@ -17,4 +17,4 @@
 
 - ⚡ Fun fact: I have a passion for gardening and reading
 
-- Non-academic interests include History of Math, Philosophy, and my cat, Midnight. 
+- Additional interests include History of Math, Philosophy, and my cat, Midnight. 
