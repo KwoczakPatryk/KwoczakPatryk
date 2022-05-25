@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on numerically finding coexistence regions for periodic attractors of the Henon Map.
+- 🔭 I worked on numerically finding coexistence regions for periodic attractors of the Henon Map.
 
 - 🌱 I’m currently learning Computational Neuroscience from Coursera offered by the University of Washington
 
